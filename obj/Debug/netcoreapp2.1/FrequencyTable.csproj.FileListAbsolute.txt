@@ -1,0 +1,33 @@
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.deps.json
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.json
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.dev.json
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.dll
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.pdb
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csprojAssemblyReference.cache
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csproj.CoreCompileInputs.cache
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfoInputs.cache
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfo.cs
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.dll
+D:\Proyectos\Framework .Net SourceCode\FrequencyTable\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.pdb
+H:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.deps.json
+H:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.json
+H:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.dev.json
+H:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.dll
+H:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.pdb
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csprojAssemblyReference.cache
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csproj.CoreCompileInputs.cache
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfoInputs.cache
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfo.cs
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.dll
+H:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.pdb
+F:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.deps.json
+F:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.json
+F:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.runtimeconfig.dev.json
+F:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.dll
+F:\FrequencyTable\bin\Debug\netcoreapp2.1\FrequencyTable.pdb
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csprojAssemblyReference.cache
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.csproj.CoreCompileInputs.cache
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfoInputs.cache
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.AssemblyInfo.cs
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.dll
+F:\FrequencyTable\obj\Debug\netcoreapp2.1\FrequencyTable.pdb
